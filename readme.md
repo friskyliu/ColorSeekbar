@@ -37,4 +37,4 @@
 
 
 
-![sample](app\sample.png)
+![sample](app/sample.png)
