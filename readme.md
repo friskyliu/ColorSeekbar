@@ -16,7 +16,7 @@
         app:csb_value="#0f0" />
 ```
 
-### attr.xml
+### colors.xml
 ```xml
     <array name="test_seeds">
         <item>@color/purple_200</item>
